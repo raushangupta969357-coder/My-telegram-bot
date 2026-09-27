@@ -25,7 +25,7 @@ def run_flask():
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
 # ==================== CONFIGURATION ====================
-BOT_TOKEN = "8864301920:AAHX16NY3NPi7s3OusmykPdNhiKPsVItZ48"
+BOT_TOKEN = "8864301920:AAHi9VPtWORANf33QdDeTNmUUucoeIzHXNk"
 YOUR_UPI_ID = "Raushan93@fam"
 ADMIN_CHAT_ID = 8642732017
 
